@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\bin\Debug\Using_a_File_Open_Dialogue.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\bin\Debug\Using_a_File_Open_Dialogue.exe
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\bin\Debug\Using_a_File_Open_Dialogue.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.exe
+c:\users\jon\documents\visual studio 2015\Projects\Using_a_File_Open_Dialogue\Using_a_File_Open_Dialogue\obj\Debug\Using_a_File_Open_Dialogue.pdb
